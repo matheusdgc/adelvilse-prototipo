@@ -4,11 +4,11 @@
 
 ---
 
-## ��� Sobre o Projeto
+## Sobre o Projeto
 
 Uma landing page moderna e elegante que reflete a essência acolhedora das terapias integrativas. O design combina tons suaves de azul e rosa, tipografia serifada sofisticada e animações fluidas que criam uma experiência imersiva e tranquila.
 
-### ��� Destaques
+### Destaques
 
 - **Design Responsivo**: Experiência perfeita em mobile, tablet e desktop
 - **Animações Suaves**: Micro-interações que elevam a UX
@@ -18,7 +18,7 @@ Uma landing page moderna e elegante que reflete a essência acolhedora das terap
 
 ---
 
-## ���️ Stack Tecnológica
+## Stack Tecnológica
 
 ```
 Frontend Framework:  React 18 + TypeScript
@@ -32,7 +32,7 @@ Forms:               React Hook Form + Zod
 Animations:          Custom CSS + Tailwind Animate
 ```
 
-### ��� Principais Dependências
+### Principais Dependências
 
 - **shadcn/ui** - Sistema de componentes reutilizáveis e acessíveis
 - **Tailwind CSS** - Utility-first CSS framework
@@ -43,7 +43,7 @@ Animations:          Custom CSS + Tailwind Animate
 
 ---
 
-## ��� Quick Start
+## Quick Start
 
 ```bash
 # Clone o repositório
@@ -61,7 +61,7 @@ npm run build
 
 ---
 
-## ��� Funcionalidades
+## Funcionalidades
 
 ✅ **Hero Section** com CTAs estratégicos  
 ✅ **Seção Sobre** com valores e missão  
@@ -74,7 +74,7 @@ npm run build
 
 ---
 
-## ��� Design System
+## Design System
 
 - **Fontes**: Cormorant Garamond (display) + Nunito (sans-serif)
 - **Cores**: Paleta serena com azuis e rosas suaves
@@ -84,17 +84,17 @@ npm run build
 
 ---
 
-## ��� Otimizações Implementadas
+## Otimizações Implementadas
 
-��� **SEO**: Meta tags completas, Open Graph, Twitter Cards, Schema.org  
-⚡ **Performance**: Lazy loading, SWC compiler, otimização de assets  
-♿ **Acessibilidade**: Componentes Radix UI, navegação por teclado  
-��� **Mobile-First**: Design responsivo em todos os breakpoints  
-��� **Conversão**: CTAs estratégicos com links diretos para WhatsApp
+**SEO**: Meta tags completas, Open Graph, Twitter Cards, Schema.org  
+**Performance**: Lazy loading, SWC compiler, otimização de assets  
+**Acessibilidade**: Componentes Radix UI, navegação por teclado  
+**Mobile-First**: Design responsivo em todos os breakpoints  
+**Conversão**: CTAs estratégicos com links diretos para WhatsApp
 
 ---
 
-## ��� Aprendizados do Projeto
+## Aprendizados do Projeto
 
 Desenvolver esta landing page foi uma oportunidade de aplicar boas práticas modernas de desenvolvimento web, desde a arquitetura componentizada até otimizações avançadas de SEO e performance. A combinação de React + TypeScript + Tailwind CSS provou ser extremamente produtiva, enquanto o shadcn/ui acelerou significativamente o desenvolvimento da interface.
 
